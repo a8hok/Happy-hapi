@@ -1,2 +1,2 @@
-# hapi-insta
+# hapi
 Just start Hai server
